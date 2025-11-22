@@ -1,0 +1,3 @@
+conda activate pzh
+cd C:\Users\23315\Desktop\document_chatgpt
+streamlit run app.py
